@@ -4,4 +4,4 @@
 一、网络请求方便，直接可以通过搭建好的框架获取到json然后再映射成bean
 二、适配器方便，适配器已经通过多层封装，而且有viewhoder对应的listview和recycleview都进行了封装，要实现对应的适配器只需要几行代码
 三、下拉刷新也进行了封装。
-![image](http://b399.photo.store.qq.com/psb?/V13onOga2qcUC7/z1xWB2kF5Of94f5MhEOwYxhD7*i2wf3DPEkCUPurIis!/b/dI8BAAAAAAAA&amp;bo=aAGAAmgBgAICCCw!);
+![image](http://b265.photo.store.qq.com/psb?/V13onOga2qcUC7/GmIx2CGDXSWZShaW0KjfXN2.jU9GBEa9U7*iebPB84M!/b/dAkBAAAAAAAA&amp;bo=aAHQAmgB0AICCCw!);
